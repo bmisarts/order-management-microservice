@@ -5,6 +5,9 @@ Cheeta Ltd Order management
 
 Run this project by this command :
 
+```Install the dependancies```
 1. `npm install`
-2. `npm start`
-3. `localhost:3000`
+```Run the app```
+2. `npm start run cheeta`
+```Access the app```
+3. `localhost:5000`
