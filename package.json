@@ -1,0 +1,22 @@
+{
+  "name": "order-microsercice.lifestyle.cheeta-ltd.com",
+  "version": "1.0.0",
+  "description": "cheeta lifestyle order",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cheeta": "node server.js"
+  },
+  "author": "Cheeta LTD",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "firebase": "^10.5.0",
+    "firebase-admin": "^11.11.0",
+    "http": "^0.0.1-security"
+  }
+}
